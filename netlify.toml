@@ -1,4 +1,4 @@
 [[redirects]]
   from = "https://cloud.agop.site/*"
-  to = "http://124.221.176.217/"
+  to = "http://124.221.176.217:5244/"
   force = true
